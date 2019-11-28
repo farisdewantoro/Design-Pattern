@@ -1,0 +1,10 @@
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\bin\Debug\netcoreapp2.1\Adapter-Class.deps.json
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\bin\Debug\netcoreapp2.1\Adapter-Class.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\bin\Debug\netcoreapp2.1\Adapter-Class.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\bin\Debug\netcoreapp2.1\Adapter-Class.dll
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\bin\Debug\netcoreapp2.1\Adapter-Class.pdb
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\obj\Debug\netcoreapp2.1\Adapter-Class.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\obj\Debug\netcoreapp2.1\Adapter-Class.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\obj\Debug\netcoreapp2.1\Adapter-Class.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\obj\Debug\netcoreapp2.1\Adapter-Class.dll
+D:\LATIHAN\Design-Pattern\Structural\Adapter-Class\Adapter-Class\obj\Debug\netcoreapp2.1\Adapter-Class.pdb

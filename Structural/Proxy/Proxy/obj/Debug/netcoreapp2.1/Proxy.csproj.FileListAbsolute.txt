@@ -1,0 +1,11 @@
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.deps.json
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.dll
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.pdb
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csprojAssemblyReference.cache
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.dll
+D:\LATIHAN\Design-Pattern\Structural\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.pdb

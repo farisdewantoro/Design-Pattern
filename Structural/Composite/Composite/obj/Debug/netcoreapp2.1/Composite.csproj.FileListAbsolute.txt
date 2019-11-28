@@ -1,0 +1,10 @@
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.deps.json
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.dll
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.pdb
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.dll
+D:\LATIHAN\Design-Pattern\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.pdb

@@ -1,0 +1,11 @@
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp2.1\BuilderDesign.deps.json
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp2.1\BuilderDesign.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp2.1\BuilderDesign.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp2.1\BuilderDesign.dll
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp2.1\BuilderDesign.pdb
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.csprojAssemblyReference.cache
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.dll
+D:\LATIHAN\Design-Pattern\Creation\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp2.1\BuilderDesign.pdb

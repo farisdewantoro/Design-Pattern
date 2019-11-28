@@ -1,0 +1,7 @@
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\LATIHAN\Singleton-Demo\Singleton\Singleton\obj\Debug\Singleton.pdb

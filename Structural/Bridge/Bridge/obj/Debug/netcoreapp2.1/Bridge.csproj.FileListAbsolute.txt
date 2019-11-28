@@ -1,0 +1,11 @@
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.deps.json
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.dll
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.pdb
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.csprojAssemblyReference.cache
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.dll
+D:\LATIHAN\Design-Pattern\Structural\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.pdb

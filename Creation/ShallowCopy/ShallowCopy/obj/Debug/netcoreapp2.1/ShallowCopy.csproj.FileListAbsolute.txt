@@ -1,0 +1,10 @@
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\bin\Debug\netcoreapp2.1\ShallowCopy.deps.json
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\bin\Debug\netcoreapp2.1\ShallowCopy.runtimeconfig.json
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\bin\Debug\netcoreapp2.1\ShallowCopy.runtimeconfig.dev.json
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\bin\Debug\netcoreapp2.1\ShallowCopy.dll
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\bin\Debug\netcoreapp2.1\ShallowCopy.pdb
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\obj\Debug\netcoreapp2.1\ShallowCopy.csproj.CoreCompileInputs.cache
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\obj\Debug\netcoreapp2.1\ShallowCopy.AssemblyInfoInputs.cache
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\obj\Debug\netcoreapp2.1\ShallowCopy.AssemblyInfo.cs
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\obj\Debug\netcoreapp2.1\ShallowCopy.dll
+D:\LATIHAN\Design-Pattern\Creation\ShallowCopy\ShallowCopy\obj\Debug\netcoreapp2.1\ShallowCopy.pdb
